@@ -20,4 +20,4 @@ if __name__ == "__main__":
             print(f"Número {numero} NÃO É PRIMO.")
             
     except ValueError:
-        print("Por favor, digite apenas números inteiros válidos.")
+        print("DIGITE APENAS NUMEROS INTEIROS!!")
